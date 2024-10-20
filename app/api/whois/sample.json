@@ -1,0 +1,119 @@
+{
+	"WhoisRecord": {
+		"createdDate": "1994-11-01T05:00:00+0000",
+		"updatedDate": "2024-09-29T09:48:15+0000",
+		"expiresDate": "2025-10-31T00:00:00+0000",
+		"registrant": {
+			"name": "Hostmaster, Amazon Legal Dept.",
+			"organization": "Amazon Technologies, Inc.",
+			"street1": "P.O. Box 8102",
+			"city": "Reno",
+			"state": "NV",
+			"postalCode": "89507",
+			"country": "UNITED STATES",
+			"countryCode": "US",
+			"email": "hostmaster@amazon.com",
+			"telephone": "12062664064",
+			"fax": "12062667010",
+			"rawText": "Registrant Name: Hostmaster, Amazon Legal Dept.\nRegistrant Organization: Amazon Technologies, Inc.\nRegistrant Street: P.O. Box 8102\nRegistrant City: Reno\nRegistrant State/Province: NV\nRegistrant Postal Code: 89507\nRegistrant Country: US\nRegistrant Phone: +1.2062664064\nRegistrant Fax: +1.2062667010\nRegistrant Email: hostmaster@amazon.com"
+		},
+		"administrativeContact": {
+			"name": "Hostmaster, Amazon Legal Dept.",
+			"organization": "Amazon Technologies, Inc.",
+			"street1": "P.O. Box 8102",
+			"city": "Reno",
+			"state": "NV",
+			"postalCode": "89507",
+			"country": "UNITED STATES",
+			"countryCode": "US",
+			"email": "hostmaster@amazon.com",
+			"telephone": "12062664064",
+			"fax": "12062667010",
+			"rawText": "Admin Name: Hostmaster, Amazon Legal Dept.\nAdmin Organization: Amazon Technologies, Inc.\nAdmin Street: P.O. Box 8102\nAdmin City: Reno\nAdmin State/Province: NV\nAdmin Postal Code: 89507\nAdmin Country: US\nAdmin Phone: +1.2062664064\nAdmin Fax: +1.2062667010\nAdmin Email: hostmaster@amazon.com"
+		},
+		"technicalContact": {
+			"name": "Hostmaster, Amazon Legal Dept.",
+			"organization": "Amazon Technologies, Inc.",
+			"street1": "P.O. Box 8102",
+			"city": "Reno",
+			"state": "NV",
+			"postalCode": "89507",
+			"country": "UNITED STATES",
+			"countryCode": "US",
+			"email": "hostmaster@amazon.com",
+			"telephone": "12062664064",
+			"fax": "12062667010",
+			"rawText": "Tech Name: Hostmaster, Amazon Legal Dept.\nTech Organization: Amazon Technologies, Inc.\nTech Street: P.O. Box 8102\nTech City: Reno\nTech State/Province: NV\nTech Postal Code: 89507\nTech Country: US\nTech Phone: +1.2062664064\nTech Fax: +1.2062667010\nTech Email: hostmaster@amazon.com"
+		},
+		"domainName": "amazon.com",
+		"nameServers": {
+			"rawText": "ns1.amzndns.co.uk\nns1.amzndns.org\nns2.amzndns.com\nns1.amzndns.com\nns2.amzndns.net\nns1.amzndns.net\nns2.amzndns.org\nns2.amzndns.co.uk\n",
+			"hostNames": [
+				"ns1.amzndns.co.uk",
+				"ns1.amzndns.org",
+				"ns2.amzndns.com",
+				"ns1.amzndns.com",
+				"ns2.amzndns.net",
+				"ns1.amzndns.net",
+				"ns2.amzndns.org",
+				"ns2.amzndns.co.uk"
+			],
+			"ips": []
+		},
+		"status": "clientUpdateProhibited clientTransferProhibited clientDeleteProhibited serverUpdateProhibited serverTransferProhibited serverDeleteProhibited",
+		"rawText": "Domain Name: amazon.com\nRegistry Domain ID: 281209_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar URL: http://www.markmonitor.com\nUpdated Date: 2024-09-29T09:48:15+0000\nCreation Date: 1994-11-01T05:00:00+0000\nRegistrar Registration Expiration Date: 2025-10-31T00:00:00+0000\nRegistrar: MarkMonitor, Inc.\nRegistrar IANA ID: 292\nRegistrar Abuse Contact Email: abusecomplaints@markmonitor.com\nRegistrar Abuse Contact Phone: +1.2086851750\nDomain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)\nDomain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)\nDomain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)\nDomain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)\nDomain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)\nDomain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)\nRegistry Registrant ID: \nRegistrant Name: Hostmaster, Amazon Legal Dept.\nRegistrant Organization: Amazon Technologies, Inc.\nRegistrant Street: P.O. Box 8102\nRegistrant City: Reno\nRegistrant State/Province: NV\nRegistrant Postal Code: 89507\nRegistrant Country: US\nRegistrant Phone: +1.2062664064\nRegistrant Phone Ext: \nRegistrant Fax: +1.2062667010\nRegistrant Fax Ext: \nRegistrant Email: hostmaster@amazon.com\nRegistry Admin ID: \nAdmin Name: Hostmaster, Amazon Legal Dept.\nAdmin Organization: Amazon Technologies, Inc.\nAdmin Street: P.O. Box 8102\nAdmin City: Reno\nAdmin State/Province: NV\nAdmin Postal Code: 89507\nAdmin Country: US\nAdmin Phone: +1.2062664064\nAdmin Phone Ext: \nAdmin Fax: +1.2062667010\nAdmin Fax Ext: \nAdmin Email: hostmaster@amazon.com\nRegistry Tech ID: \nTech Name: Hostmaster, Amazon Legal Dept.\nTech Organization: Amazon Technologies, Inc.\nTech Street: P.O. Box 8102\nTech City: Reno\nTech State/Province: NV\nTech Postal Code: 89507\nTech Country: US\nTech Phone: +1.2062664064\nTech Phone Ext: \nTech Fax: +1.2062667010\nTech Fax Ext: \nTech Email: hostmaster@amazon.com\nName Server: ns1.amzndns.co.uk\nName Server: ns1.amzndns.org\nName Server: ns2.amzndns.com\nName Server: ns1.amzndns.com\nName Server: ns2.amzndns.net\nName Server: ns1.amzndns.net\nName Server: ns2.amzndns.org\nName Server: ns2.amzndns.co.uk\nDNSSEC: unsigned\nURL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/\n>>> Last update of WHOIS database: 2024-10-19T11:02:24+0000 <<<\n\nFor more information on WHOIS status codes, please visit:\n  https://www.icann.org/resources/pages/epp-status-codes\n\nIf you wish to contact this domain’s Registrant, Administrative, or Technical\ncontact, and such email address is not visible above, you may do so via our web\nform, pursuant to ICANN’s Temporary Specification. To verify that you are not a\nrobot, please enter your email address to receive a link to a page that\nfacilitates email communication with the relevant contact(s).\n\nWeb-based WHOIS:\n  https://domains.markmonitor.com/whois\n\nIf you have a legitimate interest in viewing the non-public WHOIS details, send\nyour request and the reasons for your request to whoisrequest@markmonitor.com\nand specify the domain name in the subject line. We will review that request and\nmay ask for supporting documentation and explanation.\n\nThe data in MarkMonitor’s WHOIS database is provided for information purposes,\nand to assist persons in obtaining information about or related to a domain\nname’s registration record. While MarkMonitor believes the data to be accurate,\nthe data is provided \"as is\" with no guarantee or warranties regarding its\naccuracy.\n\nBy submitting a WHOIS query, you agree that you will use this data only for\nlawful purposes and that, under no circumstances will you use this data to:\n  (1) allow, enable, or otherwise support the transmission by email, telephone,\nor facsimile of mass, unsolicited, commercial advertising, or spam; or\n  (2) enable high volume, automated, or electronic processes that send queries,\ndata, or email to MarkMonitor (or its systems) or the domain name contacts (or\nits systems).\n\nMarkMonitor reserves the right to modify these terms at any time.\n\nBy submitting this query, you agree to abide by this policy.\n\nMarkMonitor Domain Management(TM)\nProtecting companies and consumers in a digital world.\n\nVisit MarkMonitor at https://www.markmonitor.com\nContact us at +1.8007459229\nIn Europe, at +44.02032062220\n----",
+		"parseCode": 3515,
+		"header": "",
+		"strippedText": "Domain Name: amazon.com\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar URL: http://www.markmonitor.com\nUpdated Date: 2024-09-29T09:48:15+0000\nCreation Date: 1994-11-01T05:00:00+0000\nRegistrar Registration Expiration Date: 2025-10-31T00:00:00+0000\nRegistrar: MarkMonitor, Inc.\nRegistrar IANA ID: 292\nRegistrar Abuse Contact Email: abusecomplaints@markmonitor.com\nRegistrar Abuse Contact Phone: +1.2086851750\nDomain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)\nDomain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)\nDomain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)\nDomain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)\nDomain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)\nDomain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)\nRegistrant Name: Hostmaster, Amazon Legal Dept.\nRegistrant Organization: Amazon Technologies, Inc.\nRegistrant Street: P.O. Box 8102\nRegistrant City: Reno\nRegistrant State/Province: NV\nRegistrant Postal Code: 89507\nRegistrant Country: US\nRegistrant Phone: +1.2062664064\nRegistrant Fax: +1.2062667010\nRegistrant Email: hostmaster@amazon.com\nAdmin Name: Hostmaster, Amazon Legal Dept.\nAdmin Organization: Amazon Technologies, Inc.\nAdmin Street: P.O. Box 8102\nAdmin City: Reno\nAdmin State/Province: NV\nAdmin Postal Code: 89507\nAdmin Country: US\nAdmin Phone: +1.2062664064\nAdmin Fax: +1.2062667010\nAdmin Email: hostmaster@amazon.com\nTech Name: Hostmaster, Amazon Legal Dept.\nTech Organization: Amazon Technologies, Inc.\nTech Street: P.O. Box 8102\nTech City: Reno\nTech State/Province: NV\nTech Postal Code: 89507\nTech Country: US\nTech Phone: +1.2062664064\nTech Fax: +1.2062667010\nTech Email: hostmaster@amazon.com\nName Server: ns1.amzndns.co.uk\nName Server: ns1.amzndns.org\nName Server: ns2.amzndns.com\nName Server: ns1.amzndns.com\nName Server: ns2.amzndns.net\nName Server: ns1.amzndns.net\nName Server: ns2.amzndns.org\nName Server: ns2.amzndns.co.uk\n",
+		"footer": "",
+		"audit": {
+			"createdDate": "2024-10-19 11:02:33 UTC",
+			"updatedDate": "2024-10-19 11:02:33 UTC"
+		},
+		"registrarName": "MarkMonitor, Inc.",
+		"registrarIANAID": "292",
+		"createdDateNormalized": "1994-11-01 05:00:00 UTC",
+		"updatedDateNormalized": "2024-09-29 09:48:15 UTC",
+		"expiresDateNormalized": "2025-10-31 00:00:00 UTC",
+		"registryData": {
+			"createdDate": "1994-11-01T05:00:00Z",
+			"updatedDate": "2024-09-29T09:48:15Z",
+			"expiresDate": "2025-10-31T04:00:00Z",
+			"domainName": "amazon.com",
+			"nameServers": {
+				"rawText": "NS1.AMZNDNS.CO.UK\nNS1.AMZNDNS.COM\nNS1.AMZNDNS.NET\nNS1.AMZNDNS.ORG\nNS2.AMZNDNS.CO.UK\nNS2.AMZNDNS.COM\nNS2.AMZNDNS.NET\nNS2.AMZNDNS.ORG\n",
+				"hostNames": [
+					"NS1.AMZNDNS.CO.UK",
+					"NS1.AMZNDNS.COM",
+					"NS1.AMZNDNS.NET",
+					"NS1.AMZNDNS.ORG",
+					"NS2.AMZNDNS.CO.UK",
+					"NS2.AMZNDNS.COM",
+					"NS2.AMZNDNS.NET",
+					"NS2.AMZNDNS.ORG"
+				],
+				"ips": []
+			},
+			"status": "clientDeleteProhibited clientTransferProhibited clientUpdateProhibited serverDeleteProhibited serverTransferProhibited serverUpdateProhibited",
+			"rawText": "Domain Name: AMAZON.COM\n   Registry Domain ID: 281209_DOMAIN_COM-VRSN\n   Registrar WHOIS Server: whois.markmonitor.com\n   Registrar URL: http://www.markmonitor.com\n   Updated Date: 2024-09-29T09:48:15Z\n   Creation Date: 1994-11-01T05:00:00Z\n   Registry Expiry Date: 2025-10-31T04:00:00Z\n   Registrar: MarkMonitor Inc.\n   Registrar IANA ID: 292\n   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com\n   Registrar Abuse Contact Phone: +1.2086851750\n   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\n   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\n   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\n   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited\n   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\n   Name Server: NS1.AMZNDNS.CO.UK\n   Name Server: NS1.AMZNDNS.COM\n   Name Server: NS1.AMZNDNS.NET\n   Name Server: NS1.AMZNDNS.ORG\n   Name Server: NS2.AMZNDNS.CO.UK\n   Name Server: NS2.AMZNDNS.COM\n   Name Server: NS2.AMZNDNS.NET\n   Name Server: NS2.AMZNDNS.ORG\n   DNSSEC: unsigned\n   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\n>>> Last update of whois database: 2024-10-19T11:02:22Z <<<\n\nFor more information on Whois status codes, please visit https://icann.org/epp\n\nNOTICE: The expiration date displayed in this record is the date the\nregistrar's sponsorship of the domain name registration in the registry is\ncurrently set to expire. This date does not necessarily reflect the expiration\ndate of the domain name registrant's agreement with the sponsoring\nregistrar.  Users may consult the sponsoring registrar's Whois database to\nview the registrar's reported date of expiration for this registration.\n\nTERMS OF USE: You are not authorized to access or query our Whois\ndatabase through the use of electronic processes that are high-volume and\nautomated except as reasonably necessary to register domain names or\nmodify existing registrations; the Data in VeriSign Global Registry\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\ninformation purposes only, and to assist persons in obtaining information\nabout or related to a domain name registration record. VeriSign does not\nguarantee its accuracy. By submitting a Whois query, you agree to abide\nby the following terms of use: You agree that you may use this Data only\nfor lawful purposes and that under no circumstances will you use this Data\nto: (1) allow, enable, or otherwise support the transmission of mass\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\nor facsimile; or (2) enable high volume, automated, electronic processes\nthat apply to VeriSign (or its computer systems). The compilation,\nrepackaging, dissemination or other use of this Data is expressly\nprohibited without the prior written consent of VeriSign. You agree not to\nuse electronic processes that are automated and high-volume to access or\nquery the Whois database except as reasonably necessary to register\ndomain names or modify existing registrations. VeriSign reserves the right\nto restrict your access to the Whois database in its sole discretion to ensure\noperational stability.  VeriSign may restrict or terminate your access to the\nWhois database for failure to abide by these terms of use. VeriSign\nreserves the right to modify these terms at any time.\n\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\nRegistrars.",
+			"parseCode": 251,
+			"header": "",
+			"strippedText": "Domain Name: AMAZON.COM\nRegistry Domain ID: 281209_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar URL: http://www.markmonitor.com\nUpdated Date: 2024-09-29T09:48:15Z\nCreation Date: 1994-11-01T05:00:00Z\nRegistry Expiry Date: 2025-10-31T04:00:00Z\nRegistrar: MarkMonitor Inc.\nRegistrar IANA ID: 292\nRegistrar Abuse Contact Email: abusecomplaints@markmonitor.com\nRegistrar Abuse Contact Phone: +1.2086851750\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nDomain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\nDomain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited\nDomain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\nName Server: NS1.AMZNDNS.CO.UK\nName Server: NS1.AMZNDNS.COM\nName Server: NS1.AMZNDNS.NET\nName Server: NS1.AMZNDNS.ORG\nName Server: NS2.AMZNDNS.CO.UK\nName Server: NS2.AMZNDNS.COM\nName Server: NS2.AMZNDNS.NET\nName Server: NS2.AMZNDNS.ORG\nDNSSEC: unsigned\nURL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\n>>> Last update of whois database: 2024-10-19T11:02:22Z <<<\nFor more information on Whois status codes, please visit https://icann.org/epp\nNOTICE: The expiration date displayed in this record is the date the\nregistrar's sponsorship of the domain name registration in the registry is\ncurrently set to expire. This date does not necessarily reflect the expiration\ndate of the domain name registrant's agreement with the sponsoring\nregistrar.  Users may consult the sponsoring registrar's Whois database to\nview the registrar's reported date of expiration for this registration.\nTERMS OF USE: You are not authorized to access or query our Whois\ndatabase through the use of electronic processes that are high-volume and\nautomated except as reasonably necessary to register domain names or\nmodify existing registrations; the Data in VeriSign Global Registry\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\ninformation purposes only, and to assist persons in obtaining information\nabout or related to a domain name registration record. VeriSign does not\nguarantee its accuracy. By submitting a Whois query, you agree to abide\nby the following terms of use: You agree that you may use this Data only\nfor lawful purposes and that under no circumstances will you use this Data\nto: (1) allow, enable, or otherwise support the transmission of mass\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\nor facsimile; or (2) enable high volume, automated, electronic processes\nthat apply to VeriSign (or its computer systems). The compilation,\nrepackaging, dissemination or other use of this Data is expressly\nprohibited without the prior written consent of VeriSign. You agree not to\nuse electronic processes that are automated and high-volume to access or\nquery the Whois database except as reasonably necessary to register\ndomain names or modify existing registrations. VeriSign reserves the right\nto restrict your access to the Whois database in its sole discretion to ensure\noperational stability.  VeriSign may restrict or terminate your access to the\nWhois database for failure to abide by these terms of use. VeriSign\nreserves the right to modify these terms at any time.\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\nRegistrars.\n",
+			"footer": "",
+			"audit": {
+				"createdDate": "2024-10-19 11:02:33 UTC",
+				"updatedDate": "2024-10-19 11:02:33 UTC"
+			},
+			"registrarName": "MarkMonitor Inc.",
+			"registrarIANAID": "292",
+			"createdDateNormalized": "1994-11-01 05:00:00 UTC",
+			"updatedDateNormalized": "2024-09-29 09:48:15 UTC",
+			"expiresDateNormalized": "2025-10-31 04:00:00 UTC",
+			"whoisServer": "whois.markmonitor.com"
+		},
+		"domainAvailability": "UNAVAILABLE",
+		"contactEmail": "hostmaster@amazon.com",
+		"domainNameExt": ".com",
+		"estimatedDomainAge": 10945
+	}
+}
